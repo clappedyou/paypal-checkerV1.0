@@ -1,1 +1,91 @@
-PASTE YOUR LISTS HERE
+efuzzyontop@gmail.com:Darius6503 | Country = LT | Address = Šaltinėlio tak., LT- Gargždai | Full Name = Emilis Kazakevicius | Total Balance = [0.00 EUR]
+dimisdapont@gmail.com:Sakis21! | Country = GR | Address = 6 filikis eterias, 25001 KALAVRITA | Full Name = Dimitrios Dapontas | CARD_BRAND = [master_card, master_card, visa, master_card, visa] | BANK_ACCOUNTS = [Piraeus Bank S.A., Eurobank Ergasias S.A., Bk of Cyprus] | BANK_STATUS = [confirmed, confirmed, confirmed] | CARD_LAST4 = [6201, 5178, 3792, 9490, 0627, 1001, 9356, 2004] | CARD_STATUS = [unconfirmed, expired, expired, unconfirmed, confirmed] | Total Balance = [0.00 EUR]
+demetresntanakas@gmail.com:6949456560Lol!! | Country = GR | Address = μολαοι 1, μολαοι, 23052 ΜΟΛΑΟΙ | Full Name = Dimitris Νtanakas
+sordy.kostas@gmail.com:koloskaibraki123 | Country = GR | Address = Alexandrias 103, 54646 THESSALONIKI | Full Name = Konstantinos Papadopoulos | CARD_BRAND = [visa] | CARD_LAST4 = [3004] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
+basiceduard0@gmail.com:Read2104 | Country = HR | Address = Ulica ante starcevica 51, 1, HR-12312 Višnjevac | Full Name = Eduard Basic | Total Balance = [0.00 USD]
+v.tomasovic54@gmail.com:Split@1700/2022 | Country = HR | Address = Vukovarska 111, HR-21000 Split | Full Name = Vladimir Tomasovic | CARD_BRAND = [visa] | CARD_LAST4 = [4562] | CARD_STATUS = [confirmed] | Total Balance = [0.00 USD]
+alexcranbary@gmail.com:oMISALJ123 | Country = HR | Address = Ivanićgradska ul. 19, HR-10000 Zagreb | Full Name = Alex Cranbary | CARD_BRAND = [visa, master_card] | CARD_LAST4 = [7749, 1445] | CARD_STATUS = [confirmed, confirmed] | Total Balance = [0.00 EUR]
+jacsolaco1990@gmail.com:NIVEAforman09575 | Country = HU | Address = Szeged, Hungary, Szeged, 6723, Budapesti krt. 32\u002FB 3\u002F7, 6723 | Full Name = Jacsó László | CARD_BRAND = [visa, visa] | BANK_ACCOUNTS = [Erste Bank] | CARD_LAST4 = [3876, 5861, 0174] | CARD_STATUS = [expired, confirmed] | Total Balance = [0.00 HUF]
+tamascsiszar99@icloud.com:Csiszter99 | Country = HU | Address = Budapest, Baross utca 29, 1203 | Full Name = Csiszár Tamás Lajos | CARD_BRAND = [master_card] | BANK_ACCOUNTS = [OTP Bank Nyrt., MagnetBank] | CARD_LAST4 = [2076, 1807, 3679] | CARD_STATUS = [confirmed] | Total Balance = [0.00 HUF]
+djulus@freemail.hu:Jutpuszta*23 | Country = HU | Address = Siójut, Petőfi Sándor utca 183, 8652 | Full Name = Hermecz Gyula | CARD_BRAND = [visa, visa, visa] | BANK_ACCOUNTS = [ERSTE Bank] | CARD_LAST4 = [0005, 4826, 8539, 3481] | CARD_STATUS = [confirmed, unconfirmed, confirmed] | Total Balance = [0.00 HUF]
+ivirev33@gmail.com:HMK88Xdv+ | Country = HU | Address = BALASSAGYARMAT, MORICZ ZSIGMOND UTCA 9., 1 lph. 1 em. 1a, 2660 | Full Name = Szklenár József László | CARD_BRAND = [master_card, master_card, master_card] | BANK_ACCOUNTS = [OTP Bank Nyrt] | CARD_LAST4 = [3283, 2566, 8103, 3466] | CARD_STATUS = [about_to_expire, confirmed, confirmed] | Total Balance = [0.00 USD]
+bendi.beni@gmail.com:Be33803.Be | Country = DE | Address = Dresdner Str. 206, 01705 Freital | Full Name = Benedek Salac | CARD_BRAND = [visa, visa, master_card] | BANK_ACCOUNTS = [Commerzbank AG] | BANK_STATUS = [confirmed] | CARD_LAST4 = [5700, 2101, 4160, 7899] | CARD_STATUS = [confirmed, unconfirmed, confirmed] | Total Balance = [0.00 EUR]
+edyextrem@gmail.com:Edycy@1987 | Country = HU | Address = Kecel, Jókai utca, 6237 | Full Name = eduard bukuras | CARD_BRAND = [master_card] | CARD_LAST4 = [7574] | CARD_STATUS = [confirmed] | Total Balance = [0.00 HUF]
+matyokmelinda@gmail.com:Pipike_1028 | Country = HU | Address = Szombathely, Üstökös utca 7, 9700 | Full Name = Matyók-Kárász Melinda | CARD_BRAND = [master_card, master_card] | CARD_LAST4 = [8519, 3990] | CARD_STATUS = [expired, confirmed] | Total Balance = [0.00 HUF]
+eotvosbrumi@gmail.com:BRUMI20100208# | Country = HU | Address = Baranya, Szent istvan lakotelep 4emelet 27 ajto, 7900 | Full Name = zoli Eotvos | CARD_BRAND = [visa] | CARD_LAST4 = [8444] | CARD_STATUS = [confirmed] | Total Balance = [0.00 HUF]
+dravidani2005@gmail.com:LfcZ8723!! | Country = HU | Address = Kiskunhalas, Brázay Kálmán u.3, 6400 | Full Name = Dániel Drávai | CARD_BRAND = [master_card] | BANK_ACCOUNTS = [OTP Bank] | CARD_LAST4 = [9348, 6097] | CARD_STATUS = [confirmed] | Total Balance = [0.00 HUF]
+markusnak@gmail.com:!Csilisbab1973! | Country = HU | Address = Szekesfehervar, Pestispincek 11, 8000 | Full Name = Markus Peter | CARD_BRAND = [master_card] | BANK_ACCOUNTS = [Raiffeisen] | CARD_LAST4 = [0003, 6187] | CARD_STATUS = [confirmed] | Total Balance = [0.00 HUF]
+sebi.sochirca.ss@gmail.com:Qyh4894& | Country = IE | Address = 6 Castlegrange Green, Castaheany, Dublin 15, D, D15 K304 | Full Name = Sebastian Sochirca | BANK_ACCOUNTS = [Allied Irish Banks, p.l.c.] | BANK_STATUS = [initiate_confirmation] | CARD_LAST4 = [7025] | Total Balance = [0.00 EUR]
+info@stilebandiera.it:kyt2tcxo | Country = IT
+fedecolombo1985@gmail.com:Feden1985! | 
+lafeden.decor@gmail.com:Feden1985! | Country = IT | Address = Via Sondrio, 49, 20025 Legnano MI | Full Name = Simone Colombo | CARD_BRAND = [master_card] | CARD_LAST4 = [2212] | CARD_STATUS = [expired] | Total Balance = [487.42 EUR]
+olititti@yahoo.it:1Abbraccio! | Country = IT
+ivannardella@gmail.com:Gibsonlespaul1994 | Country = IT | Address = Via barletta 50, 71121 Foggia FG | Full Name = Giovanni Nardella | CARD_BRAND = [master_card, visa] | CARD_LAST4 = [8566, 2522] | CARD_STATUS = [unconfirmed, confirmed] | Total Balance = [0.00 EUR]
+giovanni.manzari@gmail.com:Aj3j3bra20v! | 
+michelarita.digesu@gmail.com:Pale.rmo60@ | 
+vg.ricci57@gmail.com:Valle.lunga.57@ | 
+roby00gumiero@gmail.com:R3DM1N073.10 | Country = IT | Address = Via del Pozzo 27, 21041 Albizzate VA | Full Name = Roberto Gumiero | CARD_BRAND = [master_card, visa] | CARD_LAST4 = [4596, 0444] | CARD_STATUS = [confirmed, unconfirmed] | Total Balance = [0.00 EUR]
+arnaldo.pontis@tiscali.it:AmniosPaypal-1962! | Country = IT
+elena1972i@gmail.com:10111207 | Country = IT
+luca-bacci@alice.it:garfagnana% | Country = IT | Address = BACCI LUCA C\u002FO INGROBOTTONI SRL, VIA SABIN 1\u002F2, 59100 LOCALITA' LE FONTANELLE PO | Full Name = luca bacci | CARD_BRAND = [master_card, master_card, visa] | CARD_LAST4 = [0030, 8963, 7604] | CARD_STATUS = [confirmed, confirmed, confirmed] | Total Balance = [0.00 EUR]
+davide.decassanx@gmail.com:150125@Noemi | Country = IT
+robertomelis73@libero.it:@mondello73 | Country = IT
+macioalex@gmail.com:Diegolollo@00 | Country = IT | Address = I.SILONE 3, 67051 AVEZZANO L'Aquila | Full Name = ALESSANDRO MACIOCIA | CARD_BRAND = [visa] | CARD_LAST4 = [0888] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
+tramarinfrancesco03@gmail.com:tricchEtrAcchE223344 | Country = IT | Address = Via s.francesco, 35029 Pontelongo PD | Full Name = Francesco Tramarin | CARD_BRAND = [master_card] | CARD_LAST4 = [8215] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
+christellepangop@yahoo.com:Tchouamou2017 | Country = IT | Address = via paolo borsellino 42, 10138 torino TO | Full Name = CHRISTELLE ELSA TCHOUAMOU PANGOP
+neoeradigitalagency@gmail.com:3Mj*uRL5SRBfLn | Country = IT
+francybonsi08@gmail.com:ForzaRoma!927 | Country = IT
+gianluca.converso198@libero.it:Ludovica_18 | Country = IT
+conversogian22@gmail.com:Gianluca_22 | Country = IT | Address = via della pace n°8d, 87060 crosia Cosenza | Full Name = Silvana Ruperto | CARD_BRAND = [visa] | CARD_LAST4 = [8486] | CARD_STATUS = [expired] | Total Balance = [0.00 EUR]
+cremonesinigiorgio@gmail.com:Ludwig.66 | Country = IT | Address = Via Giovann 24 Battista Aleotti, 4, 43124 Parma PR | Full Name = Giorgio Cremonesini | CARD_BRAND = [visa, visa] | BANK_ACCOUNTS = [Poste Italiane S.p.A.] | BANK_STATUS = [confirmed] | CARD_LAST4 = [3935, 3771, 1163] | CARD_STATUS = [confirmed, unconfirmed] | Total Balance = [5.00 EUR]
+fcorbellini@fcorbellini.it:@Simona90# | Country = IT | Address = 2 Via Ludovico Ariosto, 00071 Pomezia RM | Full Name = Francesco Corbellini
+davidelucy@gmail.com:120284Dav | Country = IT
+paradiso1984@live.com:120284Dav | Country = IT | Address = via gorizia 48, 76123 andria Barletta-Andria-Trani | Full Name = davide paradiso | CARD_BRAND = [master_card, master_card, maestro, master_card, master_card, master_card] | CARD_LAST4 = [1125, 3644, 3767, 1831, 6138, 3877] | CARD_STATUS = [unconfirmed, confirmed, unconfirmed, confirmed, unconfirmed, confirmed] | Total Balance = [161.00 EUR]
+a.vig@tiscali.it:aepmet1900 | Country = IT
+a.vig@ledinformatica.biz:aepmet1900 | Country = IT
+aldoalbanese88@gmail.com:Albanese1? | Country = IT | Address = Via Giosue' Carducci 29, 80121 Napoli Napoli | Full Name = Aldo Albanese | CARD_BRAND = [master_card, amex, visa, master_card] | BANK_ACCOUNTS = [Banca Monte dei Paschi di Siena SpA] | BANK_STATUS = [complete_confirmation] | CARD_LAST4 = [2470, 8501, 2008, 4381, 4105] | CARD_STATUS = [unconfirmed, confirmed, confirmed, expired] | Total Balance = [0.00 EUR]
+CONDELLOAVVANTONIO@GMAIL.COM:Anto9002! | Country = IT | Address = VIA MARSALA 10\u002FC, 89127 REGGIO CALABRIA RC | Full Name = ANTONIO CONDELLO | CARD_BRAND = [master_card, visa, visa, visa, amex, visa] | CARD_LAST4 = [6869, 9427, 9859, 3568, 1009, 4092] | CARD_STATUS = [expired, confirmed, confirmed, expired, confirmed, confirmed] | Total Balance = [0.00 EUR]
+thsstudiomail@gmail.com:Avatar75? | Country = IT
+podseu234@gmail.com:SimbaLaRue104 | Country = IT | Address = Via Giotto, 21, 36100 Vicenza VI | Full Name = Giulio Gonella
+volpe.l@libero.it:hiauthoo7* | Country = IT | Address = Via Redipuglia 61, 60122 Ancona Ancona | Full Name = LUCA VOLPE | CARD_BRAND = [master_card, visa] | BANK_ACCOUNTS = [Intesa Sanpaolo S.p.A.] | BANK_STATUS = [confirmed] | CARD_LAST4 = [8927, 4560, 1645] | CARD_STATUS = [confirmed, confirmed] | Total Balance = [0.00 EUR]
+emanuele.aiello1983@tiscali.it:scottiluigiaenrica1 | Country = IT
+facsnip@gmail.com:Avatar75? | Country = IT | Address = Ugo Foscolo, 21, 36020 Campiglia dei Berici VI | Full Name = Giulio Gonella
+villellal@libero.it:gigi.1964 | Country = IT
+alihussnain5610@gmail.com:aliafzal123 | Country = IT | Address = via a Lincoln, 41012 carpi MO | Full Name = KIRAN SHAHZADI
+coluccir2001@gmail.com:Roberta2001 | Country = IT
+nadia.terranova98@gmail.com:Cla30048118 | 
+pianna@libero.it:Qtronix53@ | Country = IT | Address = Viale italia 18, 81057 Teano Caserta | Full Name = paolo iannaccone | CARD_BRAND = [master_card, master_card] | BANK_ACCOUNTS = [BPER Banca SpA] | BANK_STATUS = [confirmed] | CARD_LAST4 = [4933, 7119, 2090] | CARD_STATUS = [confirmed, unconfirmed] | Total Balance = [0.00 USD]
+leo_carpe_@libero.it:PriIncCiPpalle_222 | Country = IT | Address = via cisa 22, 19037 La Spezia SP | Full Name = France Fra | Total Balance = [0.00 EUR]
+scammatolol@libero.it:(jk3RwivwCMN$B^ | Country = IT | Address = Modena 4, Modena 4, 44121 Ferrara FE | Full Name = Leonardo su | CARD_BRAND = [master_card] | CARD_LAST4 = [0053] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
+dario.tobino@gmail.com:D@rk&Witch | Country = IT | Address = Località Mascatagliata 23B, 15070 Lerma AL | Full Name = Dario Tobino | CARD_BRAND = [master_card] | BANK_ACCOUNTS = [Intesa Sanpaolo S.p.A.] | BANK_STATUS = [confirmed] | CARD_LAST4 = [2617, 9673] | CARD_STATUS = [unconfirmed] | Total Balance = [0.00 EUR]
+orlando.salvo2008@gmail.com:Salvo2008 | Country = IT | Address = Via Roma, 34, 24036 Ponte San Pietro BG | Full Name = Salvatore Orlando | CARD_BRAND = [visa] | CARD_LAST4 = [6313] | CARD_STATUS = [unconfirmed] | Total Balance = [0.00 EUR]
+licio.pc@gmail.com:PayPal1958 | Country = IT
+daniele.paolini94@virgilio.it:Cattani063! | Country = IT
+dariodi_meo@hotmail.com:Vi@famagost28 | 
+pistonimarco98@gmail.com:Paypisto98! | Country = IT
+parbhjotbhinder86@gmail.com:3299889103@ | 
+gustavoschiavone45@gmail.com:Salvatore1983.. | Country = IT | Address = Via Garibaldi 53, 81033 Casal di Principe Caserta | Full Name = Gustavo Schiavone | CARD_BRAND = [master_card, visa] | CARD_LAST4 = [2087, 8868] | CARD_STATUS = [confirmed, unconfirmed] | Total Balance = [0.00 EUR]
+alexdamato24@gmail.com:Alexdamato04. | Country = IT | Address = Via vigne vecchie,22, 76015 trinitapoli BT | Full Name = Alessandro Damato | CARD_BRAND = [master_card] | CARD_LAST4 = [8456] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
+alessandro.raimondi1990@gmail.com:@Lanzo590 | Country = IT | Address = via san carlo 29\u002F31, 10070 SAN FRANCESCO AL CAMPO TO | Full Name = alessandro raimondi | CARD_BRAND = [master_card] | CARD_LAST4 = [3770] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
+nicolavozzo@hotmail.it:N1cola23996 | Country = IT | Address = 16\u002Fb Edward Lear, 89041 Caulonia RC | Full Name = Nicola Vozzo | CARD_BRAND = [master_card, master_card, master_card] | CARD_LAST4 = [6510, 9593, 9957] | CARD_STATUS = [confirmed, expired, confirmed] | Total Balance = [0.00 EUR]
+ameliebusinessacc@gmail.com:Cutecupcakelove1811+ | Country = IT
+snardij@gmail.com:!030782!sra | 
+dadibarone2000@gmail.com:DAV_B2000 | Country = IT
+lefialberto@gmail.com:Albertolefi98 | CARD_BRAND = [visa, master_card] | BANK_ACCOUNTS = [Credit Agricole Italia SpA] | BANK_STATUS = [complete_confirmation] | CARD_LAST4 = [4818, 5810, 3798] | CARD_STATUS = [confirmed, confirmed] | Total Balance = [56.31 EUR]
+sara.zanin@gmail.com:Peggy2017 | Country = IT
+pagliarafranco@libero.it:Piergiorgioeva398@ | Country = IT
+mauro.pigini@gmail.com:MAUR@17041974 | Country = IT | Address = Via STRADA PROVINCIALE 571 n.47\u002FB, 62018 POTENZA PICENA MC | Full Name = MAURO PIGINI | CARD_BRAND = [master_card] | BANK_ACCOUNTS = [UniCredit S.p.A.] | BANK_STATUS = [confirmed] | CARD_LAST4 = [9986, 8144] | CARD_STATUS = [expired] | Total Balance = [-38.64 EUR]
+diego.trama66@gmail.com:Anluca423245! | 
+oritinaoetsh@gmail.com:28031969$ | Country = IT | Address = Via Roma 5, 12040 Montanera CN | Full Name = Oriano Eneide | CARD_BRAND = [visa] | CARD_LAST4 = [7340] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
+agetinamartinshkambi@gmail.com:Samuel300 | Country = IT
+davide2297v@gmail.com:Mialmasythhepa22! | Country = IT
+barjami.blerta@gmail.com:milan@1990 | Country = IT | Address = via alessandro malaspina 11, 36100 vicenza VI | Full Name = blerta barjami | CARD_BRAND = [master_card, master_card] | CARD_LAST4 = [7292, 4240] | CARD_STATUS = [unconfirmed, confirmed] | Total Balance = [0.00 EUR]
+baldalbi79@comingsoon.it:C@ming_S@@n22 | Country = IT | Address = Vis Sangineto 25, 00126 roma RM | Full Name = silvio barducci
+pubbliedit@gmail.com:72silvio72 | Country = IT | Address = via del Pescheto 11, 00045 ciampino RM | Full Name = silvio barducci | CARD_BRAND = [master_card] | BANK_ACCOUNTS = [Intesa Sanpaolo S.p.A.] | BANK_STATUS = [complete_confirmation] | CARD_LAST4 = [2061, 5325] | CARD_STATUS = [confirmed] | Total Balance = [55.00 EUR]
+ramaci158@tim.it:Srl5011.@# | Country = IT | Address = via Citrus n.20, 96011 AUGUSTA SR | Full Name = Luigi Ramaci | Total Balance = [0.00 EUR]
+novaralorenzo9@gmail.com:Sofiaangela1908 | Country = IT
+straykidzz143@gmail.com:Purpleriki123 | Country = IT
+bigbox@inbox.lt:Burtuknyga100 | Country = LT | Address = Tauralaukio g. 14, LT- Klaipeda | Full Name = Svajunas Aleknavicius | CARD_BRAND = [master_card] | BANK_ACCOUNTS = [SEB Bank] | BANK_STATUS = [confirmed] | CARD_LAST4 = [8799, 6672] | CARD_STATUS = [unconfirmed] | Total Balance = [0.00 EUR]
+gerisfil@gmail.com:Vcharong456 | Country = LT | Address = Respublikos g. 20-14, LT-89225 Mažeikiai | Full Name = Valdas Gerika | BANK_ACCOUNTS = [SEB Bank] | BANK_STATUS = [confirmed] | CARD_LAST4 = [7664] | Total Balance = [0.21 EUR]
+vidma2008@gmail.com:Krmstudioz14. | Country = LT | Address = Baltupėnų g., 1c, LT- Šiauliai | Full Name = Vidmantas Ročka | CARD_BRAND = [visa] | BANK_ACCOUNTS = [Luminor Bank AS] | BANK_STATUS = [complete_confirmation] | CARD_LAST4 = [6354, 1781] | CARD_STATUS = [unconfirmed] | Total Balance = [0.00 EUR]
+hermantasmontrimas@gmail.com:mrhiormis1 | Country = LT | Address = Vydūno g. 27, Vydūno 27-28, LT-06208 Vilnius | Full Name = Hermantas Montrimas | CARD_BRAND = [master_card] | CARD_LAST4 = [5876] | CARD_STATUS = [confirmed] | Total Balance = [0.00 EUR]
